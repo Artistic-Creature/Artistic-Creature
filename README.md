@@ -1,5 +1,6 @@
-# Hi,My name is Adeyeri Ademidotun.
-# I'm a Computer Science Student 👋
+# Hi, I'm Adeyeri Ademidotun 👋
+
+### Computer Science Student | Aspiring Cybersecurity Professional
 
 Welcome to my GitHub profile!
 
