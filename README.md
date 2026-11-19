@@ -1,4 +1,5 @@
-# Hi, I'm a Computer Science Student 👋
+# Hi,My name is Adeyeri Ademidotun.
+# I'm a Computer Science Student 👋
 
 Welcome to my GitHub profile!
 
